@@ -1,0 +1,169 @@
+{
+  "part_1":[
+      
+          {
+              "name": "English",
+              "FA": 20,
+              "Oral1": 8,
+              "BA": 72,
+              "Oral2": 9,
+              "Overall":80
+            },
+            {
+              "name": "Hindi",
+              "FA": 20,
+              "Oral1": 10,
+              "BA": 60,
+              "Oral2": 10,
+              "Overall":90
+            },
+            {
+              "name": "Sanskrit",
+              "FA": 18,
+              "Oral1": 10,
+              "BA": 50,
+              "Oral2": 9,
+              "Overall":70
+            },
+            {
+              "name": "Moral",
+              "FA": 16,
+              "Oral1": 9,
+              "BA": 40,
+              "Oral2": 6,
+              "Overall":79
+            },
+            {
+              "name": "Communication",
+              "FA": 19,
+              "Oral1": 10,
+              "BA": 68,
+              "Oral2": 8,
+              "Overall":78
+            },
+            {
+              "name": "G.K.",
+              "FA": 20,
+              "Oral1": 7,
+              "BA": 50,
+              "Oral2": 9,
+              "Overall":90
+            },
+            {
+              "name": "EVS",
+              "FA": 15,
+              "Oral1": 6,
+              "BA": 50,
+              "Oral2": 8,
+              "Overall":60
+            },
+            {
+              "name": "Computer",
+              "FA": 20,
+              "Oral1": 10,
+              "BA": 65,
+              "Oral2": 10,
+              "Overall":98
+            },
+            {
+              "name": "Math",
+              "FA": 20,
+              "Oral1": 10,
+              "BA": 68,
+              "Oral2": 9,
+              "Overall":70
+            },
+            {
+              "name": "Drawing",
+            
+              "Overall":"A"
+            }
+      
+  ],
+  "part_2":[
+      {
+          "department":"Development",
+          "grade":"A"
+      },
+      {
+          "department":"Responsiblity",
+          "grade":"A"
+      },
+      {
+          "department":"Self Confidence",
+          "grade":"A"
+      },
+      {
+          "department":"Participation in Group Work",
+          "grade":"A"
+      },
+      {
+          "department":"Neatness",
+          "grade":"A"
+      },
+      {
+          "department":"Music",
+          "grade":"A"
+      },
+      {
+          "department":"discipline",
+          "grade":"A"
+      },
+      {
+          "department":"Hard-work",
+          "grade":"B"
+      },
+      {
+          "department":"Attitude towards home-work",
+          "grade":"A"
+      },
+      {
+        "department":"Craft",
+        "grade":"B"
+    },
+    
+  {
+    "department":"Regularity and Punctuality",
+    "grade":"A"
+}
+
+  ],
+
+  "part_3":[
+    {
+      "marks_range":"91-100",
+      "grade":"A1",
+      "remarks":"Outstanding"
+    },
+    {
+      "marks_range":"81-90",
+      "grade":"A2",
+      "remarks":"Excellent"
+    },
+    {
+      "marks_range":"71-80",
+      "grade":"B1",
+      "remarks":"Very Good"
+    },
+    {
+      "marks_range":"61-70",
+      "grade":"B2",
+      "remarks":"Satisfactory"
+    },
+    {
+      "marks_range":"51-60",
+      "grade":"C1",
+      "remarks":"poor"
+    },
+    {
+      "marks_range":"41-50",
+      "grade":"C2",
+      "remarks":"very Poor"
+    },
+    {
+      "marks_range":"<40",
+      "grade":"D",
+      "remarks":"Fail"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+
+@media (max-width:576px) {
+    /* .paddingZero{
+        padding: 0px!important;
+    } */
+    
+}
+@media (max-width:876px) {
+    
+}
+*{
+    font-weight: none;
+}
+.disapear{
+    
+        opacity: 0;
+ 
+      
+      
+}
+.disapear:hover{
+    color:red;
+    border-color:red ;
+    opacity: 100;
+  }
+
+/*   
+@media (min-width: 0px) { 
+    *{
+        font-size: 3px;
+
+    }    
+}
+@media (min-width: 176px) { 
+    *{
+        font-size: 5px;
+    }    
+}
+
+@media (min-width: 376px) { 
+    *{
+        font-size: 8px;
+    }    
+}
+
+@media (min-width: 576px) { 
+    *{
+        font-size: 10px;
+    }   
+} */
+
+/* // Medium devices (tablets, 768px and up) */
+/* @media (min-width: 768px) { 
+    *{
+        font-size: 13px;
+    }
+    
+}
+  */
+
+/* // Large devices (desktops, 992px and up) */
+/* @media (min-width: 992px) { 
+    *{
+        font-size: 15px;
+    }
+    
+    
+} */
+ 
+
+/* // Extra large devices (large desktops, 1200px and up) */
+/* @media (min-width: 1200px) { 
+    *{
+        font-size: 17px;
+    }
+    
+} */
+
